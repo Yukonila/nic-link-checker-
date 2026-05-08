@@ -1,0 +1,3 @@
+/home/Koni/MY/Linktext/build/CMakeFiles/Linktext.dir
+/home/Koni/MY/Linktext/build/CMakeFiles/edit_cache.dir
+/home/Koni/MY/Linktext/build/CMakeFiles/rebuild_cache.dir
