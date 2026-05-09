@@ -18,7 +18,7 @@ class NICMonitor {
 
     int getFd() { return socket(AF_INET, SOCK_DGRAM, 0); }
 
-    // 检测是否为无线网卡 (SIOCGIWNAME 是检测无线扩展存在的最可靠方式)[citation:8]
+    // 检测是否为无线网卡
     bool isWireless() {
         int fd = getFd();
         struct iwreq wrq;
